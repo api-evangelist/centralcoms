@@ -1,7 +1,18 @@
 aid: centralcoms
-name: Centralcoms
-description: Centralcoms is a company surfaced as a portfolio company of y-combinator and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: CentralComs
+description: >-
+  CentralComs is a Y Combinator-backed (Spring 2026) proptech company building AI
+  agents that automate maintenance coordination and leasing for residential and
+  small-commercial property managers. Its agents field tenant, prospect, and owner
+  messages 24/7, triage and dispatch maintenance work orders to ranked vendors,
+  follow up until tickets close with verification photos, and answer lease/listing/HOA
+  questions with the exact clause cited. A leasing agent captures multi-channel leads,
+  scores qualification, matches units, analyzes documents, and runs background screening.
+  CentralComs bills flat monthly per door with no per-message fees and keeps records
+  aligned with AppFolio, Buildium, Yardi, Rent Manager, and DoorLoop via CSV today,
+  with native two-way PMS integrations on the roadmap. This profile was surfaced as a
+  Y Combinator portfolio company; the company does not yet publish a public API — it is
+  an AI agent product with PMS integrations planned rather than a developer platform.
 url: https://raw.githubusercontent.com/api-evangelist/centralcoms/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +20,54 @@ x-backed-by:
 - y-combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
+image: https://centralcoms.com/logo.png
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Property Management
+- Real Estate Technology
+- PropTech
+- AI Agents
+- Maintenance Coordination
+- Leasing
+- Vendor Coordination
+- Y Combinator
 apis: []
+common:
+- type: DomainSecurity
+  url: security/centralcoms-domain-security.yml
+- type: Website
+  url: https://centralcoms.com
+- type: About
+  url: https://centralcoms.com/about
+- type: LLMsTxt
+  url: llms/centralcoms-llms.txt
+- type: SignUp
+  url: https://centralcoms.com/demo
+- type: TermsOfService
+  url: https://centralcoms.com/terms
+- type: PrivacyPolicy
+  url: https://centralcoms.com/privacy
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,49 @@
+# CentralComs
+
+> CentralComs automates tenant intake, vendor coordination, and maintenance follow-up so property managers can scale operations without scaling staff.
+
+CentralComs is an AI maintenance-coordination platform for property managers. The team you have today can manage 3x the portfolio at higher revenue per unit — the AI handles maintenance, leasing, and vendor coordination autonomously, while your staff only steps in for decisions that exceed the policies you set.
+
+- For: property managers running single-family, multifamily, small commercial, and mixed portfolios — from 50 to 50,000+ doors.
+- Backed by Y Combinator.
+- Onboarding: most portfolios are live within 5–7 business days.
+- Pricing: flat monthly pricing per door — no per-message or per-call fees. Scales with portfolio size and the modules you turn on (maintenance, leasing, vendor coordination).
+- PMS: works alongside AppFolio, Buildium, Yardi, Rent Manager, and DoorLoop via CSV today; native two-way integrations on the roadmap.
+
+## Capabilities
+
+- **Tenant & owner Q&A** — Tenants, prospects, and owners get instant answers pulled from your lease, listing, HOA rules, and owner agreements, with the exact clause cited. Removes ~40 repeat questions/week from your team (~$1,800/mo in staff time saved per PM).
+- **Continuous training** — Every conversation, vendor exchange, and policy edge case feeds the agent automatically. No weekly retraining meetings or manual prompt updates; every learned rule has an audit trail.
+- **PMS sync** — Every conversation produces clean, structured records. CSV import/export today; native AppFolio, Buildium, Yardi, and Rent Manager integrations on the roadmap. ~10 hours/week saved per portfolio.
+- **Vendor coordination** — Automated SMS + email follow-up, required close-out photos, and post-repair tenant surveys. The agent ranks vendors by license, insurance, payment terms, and historical performance, then dispatches and follows up until the ticket closes. ~100% close-out rate.
+- **Repair verification** — Tickets close only when the tenant confirms the fix worked. Auto re-ping the next morning if the tenant goes quiet; manager escalation only after configurable silence.
+- **Pattern detection** — Repeat-issue detection per unit, building, and portfolio surfaces root causes (not symptoms) and flags vendors whose fixes don't hold. Stops ~$660/quarter of wasted spend per recurring issue.
+
+## Results
+
+- 22% reduction in vacancies
+- 83%+ of tickets handled without human intervention
+- 1.7x boost to on-time tours
+- 82% reduction in manual touch-points across leasing and maintenance
+- 3 min median tenant response time, 24/7
+- 62% of maintenance tickets resolved without operator action
+- 40 hours/month of staff time saved per portfolio
+- Up to 5x faster and more consistent than a virtual assistant
+
+## FAQ
+
+- **Does this add work for our team?** No. CentralComs handles tenant intake, vendor outreach, and follow-ups end-to-end. Your team only steps in for decisions that exceed the policies you set.
+- **Who handles tenant calls and texts?** The AI agent fields every tenant message 24/7, gathers diagnostic detail, classifies urgency, and creates structured work orders, escalating to your team only when policy thresholds are crossed.
+- **How does billing work?** Flat monthly pricing per door, with no per-message or per-call fees. No overage surprises.
+- **How quickly can we onboard?** Most portfolios are live within 5–7 business days.
+- **Do you integrate with our PMS?** Direct integrations with AppFolio, Buildium, Yardi, Rent Manager, and DoorLoop are on the roadmap; today we keep records aligned through CSV import/export.
+- **What does it cost?** Pricing scales with portfolio size and the modules you turn on. A 15-minute assessment gives a precise number.
+- **Which property types do you support?** Single-family, multifamily, small commercial, and mixed portfolios, from 50 to 50,000+ doors.
+- **How does vendor coordination work?** The agent ranks your vendor list by license, insurance, payment terms, and performance, then dispatches, confirms availability, and follows up automatically — within your approval limits and rate caps.
+
+## Links
+
+- [Product overview](https://centralcoms.com/landing): full landing page with capabilities, results, and savings calculator.
+- [About CentralComs](https://centralcoms.com/about): company and mission.
+- [Get early access / book a demo](https://centralcoms.com/demo): request access.
+- [Book a meeting with the founder](https://calendly.com/kylegchang-berkeley/30-minute): 30-minute call.
